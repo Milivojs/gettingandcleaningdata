@@ -16,5 +16,7 @@ The purpose of our assigment was to merge training and test and create one datas
 mean and standard deviation only, use descriptive activity names for each activity, apropriately label dataset,create an
 independent dataset that contains average values for each variable from previous datasets
    
-The code that solves this problem can be found both in run_analysis, since that was the directory I originaly started working
-and traintest file
+The code that solves this problem can be found both in run_analysis.R, since that was the directory I originaly started working
+and testtrain.txt file.
+
+Explanations for each part of code are written
